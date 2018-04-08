@@ -187,11 +187,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\kener\\source\\repos\\MoneyTime\\MoneyTime.Domain.Scheduling\\MoneyTime.Domain.Scheduling.csproj",
+      "projectUniqueName": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Domain\\MoneyTime.Domain.Scheduling\\MoneyTime.Domain.Scheduling.csproj",
       "projectName": "MoneyTime.Domain.Scheduling",
-      "projectPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\MoneyTime.Domain.Scheduling\\MoneyTime.Domain.Scheduling.csproj",
+      "projectPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Domain\\MoneyTime.Domain.Scheduling\\MoneyTime.Domain.Scheduling.csproj",
       "packagesPath": "C:\\Users\\kener\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\MoneyTime.Domain.Scheduling\\obj\\",
+      "outputPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Domain\\MoneyTime.Domain.Scheduling\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

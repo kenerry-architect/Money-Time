@@ -9,3 +9,14 @@ C:\Users\kener\source\repos\MoneyTime\MoneyTime.Application.WebApi\obj\Debug\net
 C:\Users\kener\source\repos\MoneyTime\MoneyTime.Application.WebApi\obj\Debug\netcoreapp2.0\MoneyTime.Application.WebApi.AssemblyInfo.cs
 C:\Users\kener\source\repos\MoneyTime\MoneyTime.Application.WebApi\obj\Debug\netcoreapp2.0\MoneyTime.Application.WebApi.dll
 C:\Users\kener\source\repos\MoneyTime\MoneyTime.Application.WebApi\obj\Debug\netcoreapp2.0\MoneyTime.Application.WebApi.pdb
+C:\Users\kener\source\repos\MoneyTime\src\Application\MoneyTime.Application.WebApi\bin\Debug\netcoreapp2.0\MoneyTime.Application.WebApi.deps.json
+C:\Users\kener\source\repos\MoneyTime\src\Application\MoneyTime.Application.WebApi\bin\Debug\netcoreapp2.0\MoneyTime.Application.WebApi.runtimeconfig.json
+C:\Users\kener\source\repos\MoneyTime\src\Application\MoneyTime.Application.WebApi\bin\Debug\netcoreapp2.0\MoneyTime.Application.WebApi.runtimeconfig.dev.json
+C:\Users\kener\source\repos\MoneyTime\src\Application\MoneyTime.Application.WebApi\bin\Debug\netcoreapp2.0\MoneyTime.Application.WebApi.dll
+C:\Users\kener\source\repos\MoneyTime\src\Application\MoneyTime.Application.WebApi\bin\Debug\netcoreapp2.0\MoneyTime.Application.WebApi.pdb
+C:\Users\kener\source\repos\MoneyTime\src\Application\MoneyTime.Application.WebApi\obj\Debug\netcoreapp2.0\MoneyTime.Application.WebApi.csprojResolveAssemblyReference.cache
+C:\Users\kener\source\repos\MoneyTime\src\Application\MoneyTime.Application.WebApi\obj\Debug\netcoreapp2.0\MoneyTime.Application.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\kener\source\repos\MoneyTime\src\Application\MoneyTime.Application.WebApi\obj\Debug\netcoreapp2.0\MoneyTime.Application.WebApi.AssemblyInfoInputs.cache
+C:\Users\kener\source\repos\MoneyTime\src\Application\MoneyTime.Application.WebApi\obj\Debug\netcoreapp2.0\MoneyTime.Application.WebApi.AssemblyInfo.cs
+C:\Users\kener\source\repos\MoneyTime\src\Application\MoneyTime.Application.WebApi\obj\Debug\netcoreapp2.0\MoneyTime.Application.WebApi.dll
+C:\Users\kener\source\repos\MoneyTime\src\Application\MoneyTime.Application.WebApi\obj\Debug\netcoreapp2.0\MoneyTime.Application.WebApi.pdb

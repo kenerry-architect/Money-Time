@@ -12545,11 +12545,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\kener\\source\\repos\\MoneyTime\\MoneyTime.Application.WebApi\\MoneyTime.Application.WebApi.csproj",
+      "projectUniqueName": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Application\\MoneyTime.Application.WebApi\\MoneyTime.Application.WebApi.csproj",
       "projectName": "MoneyTime.Application.WebApi",
-      "projectPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\MoneyTime.Application.WebApi\\MoneyTime.Application.WebApi.csproj",
+      "projectPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Application\\MoneyTime.Application.WebApi\\MoneyTime.Application.WebApi.csproj",
       "packagesPath": "C:\\Users\\kener\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\MoneyTime.Application.WebApi\\obj\\",
+      "outputPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Application\\MoneyTime.Application.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

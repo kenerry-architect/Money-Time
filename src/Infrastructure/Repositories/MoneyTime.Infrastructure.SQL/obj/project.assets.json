@@ -187,11 +187,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\kener\\source\\repos\\MoneyTime\\MoneyTime.Infrastructure.SQL\\MoneyTime.Infrastructure.SQL.csproj",
+      "projectUniqueName": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Infrastructure\\Repositories\\MoneyTime.Infrastructure.SQL\\MoneyTime.Infrastructure.SQL.csproj",
       "projectName": "MoneyTime.Infrastructure.SQL",
-      "projectPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\MoneyTime.Infrastructure.SQL\\MoneyTime.Infrastructure.SQL.csproj",
+      "projectPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Infrastructure\\Repositories\\MoneyTime.Infrastructure.SQL\\MoneyTime.Infrastructure.SQL.csproj",
       "packagesPath": "C:\\Users\\kener\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\MoneyTime.Infrastructure.SQL\\obj\\",
+      "outputPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Infrastructure\\Repositories\\MoneyTime.Infrastructure.SQL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

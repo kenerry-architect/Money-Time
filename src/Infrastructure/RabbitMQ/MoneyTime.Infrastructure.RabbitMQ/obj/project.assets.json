@@ -187,11 +187,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\kener\\source\\repos\\MoneyTime\\MoneyTime.Infrastructure.RabbitMQ\\MoneyTime.Infrastructure.RabbitMQ.csproj",
+      "projectUniqueName": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Infrastructure\\RabbitMQ\\MoneyTime.Infrastructure.RabbitMQ\\MoneyTime.Infrastructure.RabbitMQ.csproj",
       "projectName": "MoneyTime.Infrastructure.RabbitMQ",
-      "projectPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\MoneyTime.Infrastructure.RabbitMQ\\MoneyTime.Infrastructure.RabbitMQ.csproj",
+      "projectPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Infrastructure\\RabbitMQ\\MoneyTime.Infrastructure.RabbitMQ\\MoneyTime.Infrastructure.RabbitMQ.csproj",
       "packagesPath": "C:\\Users\\kener\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\MoneyTime.Infrastructure.RabbitMQ\\obj\\",
+      "outputPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Infrastructure\\RabbitMQ\\MoneyTime.Infrastructure.RabbitMQ\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

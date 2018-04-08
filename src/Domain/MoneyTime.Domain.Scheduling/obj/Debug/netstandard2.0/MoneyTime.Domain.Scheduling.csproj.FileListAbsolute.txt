@@ -7,3 +7,12 @@ C:\Users\kener\source\repos\MoneyTime\MoneyTime.Domain.Scheduling\obj\Debug\nets
 C:\Users\kener\source\repos\MoneyTime\MoneyTime.Domain.Scheduling\obj\Debug\netstandard2.0\MoneyTime.Domain.Scheduling.AssemblyInfo.cs
 C:\Users\kener\source\repos\MoneyTime\MoneyTime.Domain.Scheduling\obj\Debug\netstandard2.0\MoneyTime.Domain.Scheduling.dll
 C:\Users\kener\source\repos\MoneyTime\MoneyTime.Domain.Scheduling\obj\Debug\netstandard2.0\MoneyTime.Domain.Scheduling.pdb
+C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain.Scheduling\bin\Debug\netstandard2.0\MoneyTime.Domain.Scheduling.deps.json
+C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain.Scheduling\bin\Debug\netstandard2.0\MoneyTime.Domain.Scheduling.dll
+C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain.Scheduling\bin\Debug\netstandard2.0\MoneyTime.Domain.Scheduling.pdb
+C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain.Scheduling\obj\Debug\netstandard2.0\MoneyTime.Domain.Scheduling.csprojResolveAssemblyReference.cache
+C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain.Scheduling\obj\Debug\netstandard2.0\MoneyTime.Domain.Scheduling.csproj.CoreCompileInputs.cache
+C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain.Scheduling\obj\Debug\netstandard2.0\MoneyTime.Domain.Scheduling.AssemblyInfoInputs.cache
+C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain.Scheduling\obj\Debug\netstandard2.0\MoneyTime.Domain.Scheduling.AssemblyInfo.cs
+C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain.Scheduling\obj\Debug\netstandard2.0\MoneyTime.Domain.Scheduling.dll
+C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain.Scheduling\obj\Debug\netstandard2.0\MoneyTime.Domain.Scheduling.pdb

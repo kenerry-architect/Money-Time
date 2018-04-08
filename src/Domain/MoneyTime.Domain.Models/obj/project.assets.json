@@ -3857,11 +3857,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\kener\\source\\repos\\MoneyTime\\MoneyTime.Domain.Models\\MoneyTime.Domain.Models.fsproj",
+      "projectUniqueName": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Domain\\MoneyTime.Domain.Models\\MoneyTime.Domain.Models.fsproj",
       "projectName": "MoneyTime.Domain.Models",
-      "projectPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\MoneyTime.Domain.Models\\MoneyTime.Domain.Models.fsproj",
+      "projectPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Domain\\MoneyTime.Domain.Models\\MoneyTime.Domain.Models.fsproj",
       "packagesPath": "C:\\Users\\kener\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\MoneyTime.Domain.Models\\obj\\",
+      "outputPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Domain\\MoneyTime.Domain.Models\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

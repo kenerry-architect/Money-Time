@@ -7,3 +7,12 @@ C:\Users\kener\source\repos\MoneyTime\MoneyTime.Domain\obj\Debug\netstandard2.0\
 C:\Users\kener\source\repos\MoneyTime\MoneyTime.Domain\obj\Debug\netstandard2.0\MoneyTime.Domain.AssemblyInfo.cs
 C:\Users\kener\source\repos\MoneyTime\MoneyTime.Domain\obj\Debug\netstandard2.0\MoneyTime.Domain.dll
 C:\Users\kener\source\repos\MoneyTime\MoneyTime.Domain\obj\Debug\netstandard2.0\MoneyTime.Domain.pdb
+C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain\bin\Debug\netstandard2.0\MoneyTime.Domain.deps.json
+C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain\bin\Debug\netstandard2.0\MoneyTime.Domain.dll
+C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain\bin\Debug\netstandard2.0\MoneyTime.Domain.pdb
+C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain\obj\Debug\netstandard2.0\MoneyTime.Domain.csprojResolveAssemblyReference.cache
+C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain\obj\Debug\netstandard2.0\MoneyTime.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain\obj\Debug\netstandard2.0\MoneyTime.Domain.AssemblyInfoInputs.cache
+C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain\obj\Debug\netstandard2.0\MoneyTime.Domain.AssemblyInfo.cs
+C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain\obj\Debug\netstandard2.0\MoneyTime.Domain.dll
+C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain\obj\Debug\netstandard2.0\MoneyTime.Domain.pdb

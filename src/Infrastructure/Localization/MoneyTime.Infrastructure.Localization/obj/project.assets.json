@@ -187,11 +187,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\kener\\source\\repos\\MoneyTime\\MoneyTime.Infrastructure.Localization\\MoneyTime.Infrastructure.Localization.csproj",
+      "projectUniqueName": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Infrastructure\\Localization\\MoneyTime.Infrastructure.Localization\\MoneyTime.Infrastructure.Localization.csproj",
       "projectName": "MoneyTime.Infrastructure.Localization",
-      "projectPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\MoneyTime.Infrastructure.Localization\\MoneyTime.Infrastructure.Localization.csproj",
+      "projectPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Infrastructure\\Localization\\MoneyTime.Infrastructure.Localization\\MoneyTime.Infrastructure.Localization.csproj",
       "packagesPath": "C:\\Users\\kener\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\MoneyTime.Infrastructure.Localization\\obj\\",
+      "outputPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Infrastructure\\Localization\\MoneyTime.Infrastructure.Localization\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -187,11 +187,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\kener\\source\\repos\\MoneyTime\\MoneyTime.Infrastructure.IntegrityKeeperValidator\\MoneyTime.Infrastructure.IntegrityKeeperValidator.csproj",
+      "projectUniqueName": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Infrastructure\\IntegrityKeeper\\MoneyTime.Infrastructure.IntegrityKeeperValidator\\MoneyTime.Infrastructure.IntegrityKeeperValidator.csproj",
       "projectName": "MoneyTime.Infrastructure.IntegrityKeeperValidator",
-      "projectPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\MoneyTime.Infrastructure.IntegrityKeeperValidator\\MoneyTime.Infrastructure.IntegrityKeeperValidator.csproj",
+      "projectPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Infrastructure\\IntegrityKeeper\\MoneyTime.Infrastructure.IntegrityKeeperValidator\\MoneyTime.Infrastructure.IntegrityKeeperValidator.csproj",
       "packagesPath": "C:\\Users\\kener\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\MoneyTime.Infrastructure.IntegrityKeeperValidator\\obj\\",
+      "outputPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Infrastructure\\IntegrityKeeper\\MoneyTime.Infrastructure.IntegrityKeeperValidator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

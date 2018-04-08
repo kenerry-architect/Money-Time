@@ -187,11 +187,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\kener\\source\\repos\\MoneyTime\\MoneyTime.Infrastructure.EventSourcing\\MoneyTime.Infrastructure.EventSourcing.csproj",
+      "projectUniqueName": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Infrastructure\\EventSourcing\\MoneyTime.Infrastructure.EventSourcing\\MoneyTime.Infrastructure.EventSourcing.csproj",
       "projectName": "MoneyTime.Infrastructure.EventSourcing",
-      "projectPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\MoneyTime.Infrastructure.EventSourcing\\MoneyTime.Infrastructure.EventSourcing.csproj",
+      "projectPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Infrastructure\\EventSourcing\\MoneyTime.Infrastructure.EventSourcing\\MoneyTime.Infrastructure.EventSourcing.csproj",
       "packagesPath": "C:\\Users\\kener\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\MoneyTime.Infrastructure.EventSourcing\\obj\\",
+      "outputPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Infrastructure\\EventSourcing\\MoneyTime.Infrastructure.EventSourcing\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

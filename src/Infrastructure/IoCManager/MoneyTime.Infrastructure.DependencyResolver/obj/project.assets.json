@@ -187,11 +187,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\kener\\source\\repos\\MoneyTime\\MoneyTime.Infrastructure.DependencyResolver\\MoneyTime.Infrastructure.DependencyResolver.csproj",
+      "projectUniqueName": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Infrastructure\\IoCManager\\MoneyTime.Infrastructure.DependencyResolver\\MoneyTime.Infrastructure.DependencyResolver.csproj",
       "projectName": "MoneyTime.Infrastructure.DependencyResolver",
-      "projectPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\MoneyTime.Infrastructure.DependencyResolver\\MoneyTime.Infrastructure.DependencyResolver.csproj",
+      "projectPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Infrastructure\\IoCManager\\MoneyTime.Infrastructure.DependencyResolver\\MoneyTime.Infrastructure.DependencyResolver.csproj",
       "packagesPath": "C:\\Users\\kener\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\MoneyTime.Infrastructure.DependencyResolver\\obj\\",
+      "outputPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Infrastructure\\IoCManager\\MoneyTime.Infrastructure.DependencyResolver\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

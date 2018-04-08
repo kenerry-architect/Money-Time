@@ -3,21 +3,21 @@ version: '3'
 services:
   moneytime.application.webapi:
     volumes:
-      - C:\Users\kener\onecoremsvsmon\15.0.27130.2010:C:\remote_debugger:ro
+      - C:\Users\kener\onecoremsvsmon:C:\remote_debugger:ro
     entrypoint: C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /timeout:2147483646
     labels:
       com.microsoft.visualstudio.debuggee.program: "\"C:\\Program Files\\dotnet\\dotnet.exe\""
-      com.microsoft.visualstudio.debuggee.arguments: " --additionalProbingPath c:\\.nuget\\packages --additionalProbingPath c:\\.nuget\\fallbackpackages  MoneyTime.Application.WebApi.dll"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_moneytime.application.webapi$ MoneyTime.Application.WebApi.dll"
       com.microsoft.visualstudio.debuggee.workingdirectory: "C:\\app"
       com.microsoft.visualstudio.debuggee.killprogram: "C:\\remote_debugger\\x64\\utils\\KillProcess.exe dotnet.exe"
 
   moneytime.application.webapi.scheduling:
     volumes:
-      - C:\Users\kener\onecoremsvsmon\15.0.27130.2010:C:\remote_debugger:ro
+      - C:\Users\kener\onecoremsvsmon:C:\remote_debugger:ro
     entrypoint: C:\\remote_debugger\\x64\\msvsmon.exe /noauth /anyuser /silent /nostatus /noclrwarn /nosecuritywarn /nofirewallwarn /nowowwarn /timeout:2147483646
     labels:
       com.microsoft.visualstudio.debuggee.program: "\"C:\\Program Files\\dotnet\\dotnet.exe\""
-      com.microsoft.visualstudio.debuggee.arguments: " --additionalProbingPath c:\\.nuget\\packages --additionalProbingPath c:\\.nuget\\fallbackpackages  MoneyTime.Application.WebApi.Scheduling.dll"
+      #com.microsoft.visualstudio.debuggee.arguments: " $debuggee_arguments_probing_paths_moneytime.application.webapi.scheduling$ MoneyTime.Application.WebApi.Scheduling.dll"
       com.microsoft.visualstudio.debuggee.workingdirectory: "C:\\app"
       com.microsoft.visualstudio.debuggee.killprogram: "C:\\remote_debugger\\x64\\utils\\KillProcess.exe dotnet.exe"
 

@@ -6,3 +6,11 @@ C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.Localization\obj\
 C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.Localization\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.Localization.AssemblyInfo.cs
 C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.Localization\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.Localization.dll
 C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.Localization\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.Localization.pdb
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\Localization\MoneyTime.Infrastructure.Localization\bin\Debug\netstandard2.0\MoneyTime.Infrastructure.Localization.deps.json
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\Localization\MoneyTime.Infrastructure.Localization\bin\Debug\netstandard2.0\MoneyTime.Infrastructure.Localization.dll
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\Localization\MoneyTime.Infrastructure.Localization\bin\Debug\netstandard2.0\MoneyTime.Infrastructure.Localization.pdb
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\Localization\MoneyTime.Infrastructure.Localization\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.Localization.csproj.CoreCompileInputs.cache
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\Localization\MoneyTime.Infrastructure.Localization\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.Localization.AssemblyInfoInputs.cache
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\Localization\MoneyTime.Infrastructure.Localization\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.Localization.AssemblyInfo.cs
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\Localization\MoneyTime.Infrastructure.Localization\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.Localization.dll
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\Localization\MoneyTime.Infrastructure.Localization\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.Localization.pdb

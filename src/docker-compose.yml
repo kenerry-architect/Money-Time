@@ -5,11 +5,11 @@ services:
     image: moneytime.application.webapi.scheduling
     build:
       context: .
-      dockerfile: MoneyTime.Application.WebApi.Scheduling\Dockerfile
+      dockerfile: Application\MoneyTime.Application.WebApi.Scheduling\Dockerfile
 
   moneytime.application.webapi:
     image: moneytime.application.webapi
     build:
       context: .
-      dockerfile: MoneyTime.Application.WebApi\Dockerfile
+      dockerfile: Application\MoneyTime.Application.WebApi\Dockerfile
 

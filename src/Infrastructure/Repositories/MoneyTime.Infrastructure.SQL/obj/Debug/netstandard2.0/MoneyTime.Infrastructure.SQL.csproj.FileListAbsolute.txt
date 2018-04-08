@@ -6,3 +6,11 @@ C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.SQL\obj\Debug\net
 C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.SQL\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.SQL.AssemblyInfo.cs
 C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.SQL\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.SQL.dll
 C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.SQL\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.SQL.pdb
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\Repositories\MoneyTime.Infrastructure.SQL\bin\Debug\netstandard2.0\MoneyTime.Infrastructure.SQL.deps.json
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\Repositories\MoneyTime.Infrastructure.SQL\bin\Debug\netstandard2.0\MoneyTime.Infrastructure.SQL.dll
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\Repositories\MoneyTime.Infrastructure.SQL\bin\Debug\netstandard2.0\MoneyTime.Infrastructure.SQL.pdb
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\Repositories\MoneyTime.Infrastructure.SQL\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.SQL.csproj.CoreCompileInputs.cache
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\Repositories\MoneyTime.Infrastructure.SQL\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.SQL.AssemblyInfoInputs.cache
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\Repositories\MoneyTime.Infrastructure.SQL\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.SQL.AssemblyInfo.cs
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\Repositories\MoneyTime.Infrastructure.SQL\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.SQL.dll
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\Repositories\MoneyTime.Infrastructure.SQL\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.SQL.pdb

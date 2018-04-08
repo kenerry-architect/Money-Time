@@ -6,3 +6,11 @@ C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.IntegrityKeeperVa
 C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.IntegrityKeeperValidator\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.IntegrityKeeperValidator.AssemblyInfo.cs
 C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.IntegrityKeeperValidator\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.IntegrityKeeperValidator.dll
 C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.IntegrityKeeperValidator\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.IntegrityKeeperValidator.pdb
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IntegrityKeeper\MoneyTime.Infrastructure.IntegrityKeeperValidator\bin\Debug\netstandard2.0\MoneyTime.Infrastructure.IntegrityKeeperValidator.deps.json
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IntegrityKeeper\MoneyTime.Infrastructure.IntegrityKeeperValidator\bin\Debug\netstandard2.0\MoneyTime.Infrastructure.IntegrityKeeperValidator.dll
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IntegrityKeeper\MoneyTime.Infrastructure.IntegrityKeeperValidator\bin\Debug\netstandard2.0\MoneyTime.Infrastructure.IntegrityKeeperValidator.pdb
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IntegrityKeeper\MoneyTime.Infrastructure.IntegrityKeeperValidator\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.IntegrityKeeperValidator.csproj.CoreCompileInputs.cache
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IntegrityKeeper\MoneyTime.Infrastructure.IntegrityKeeperValidator\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.IntegrityKeeperValidator.AssemblyInfoInputs.cache
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IntegrityKeeper\MoneyTime.Infrastructure.IntegrityKeeperValidator\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.IntegrityKeeperValidator.AssemblyInfo.cs
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IntegrityKeeper\MoneyTime.Infrastructure.IntegrityKeeperValidator\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.IntegrityKeeperValidator.dll
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IntegrityKeeper\MoneyTime.Infrastructure.IntegrityKeeperValidator\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.IntegrityKeeperValidator.pdb

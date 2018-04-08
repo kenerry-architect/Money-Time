@@ -7,3 +7,12 @@ C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.RabbitMQ\obj\Debu
 C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.RabbitMQ\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.RabbitMQ.AssemblyInfo.cs
 C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.RabbitMQ\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.RabbitMQ.dll
 C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.RabbitMQ\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.RabbitMQ.pdb
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\RabbitMQ\MoneyTime.Infrastructure.RabbitMQ\bin\Debug\netstandard2.0\MoneyTime.Infrastructure.RabbitMQ.deps.json
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\RabbitMQ\MoneyTime.Infrastructure.RabbitMQ\bin\Debug\netstandard2.0\MoneyTime.Infrastructure.RabbitMQ.dll
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\RabbitMQ\MoneyTime.Infrastructure.RabbitMQ\bin\Debug\netstandard2.0\MoneyTime.Infrastructure.RabbitMQ.pdb
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\RabbitMQ\MoneyTime.Infrastructure.RabbitMQ\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.RabbitMQ.csprojResolveAssemblyReference.cache
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\RabbitMQ\MoneyTime.Infrastructure.RabbitMQ\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\RabbitMQ\MoneyTime.Infrastructure.RabbitMQ\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\RabbitMQ\MoneyTime.Infrastructure.RabbitMQ\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.RabbitMQ.AssemblyInfo.cs
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\RabbitMQ\MoneyTime.Infrastructure.RabbitMQ\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.RabbitMQ.dll
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\RabbitMQ\MoneyTime.Infrastructure.RabbitMQ\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.RabbitMQ.pdb

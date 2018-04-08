@@ -1,0 +1,8 @@
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.NoSQL\bin\Debug\netstandard2.0\MoneyTime.Infrastructure.NoSQL.deps.json
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.NoSQL\bin\Debug\netstandard2.0\MoneyTime.Infrastructure.NoSQL.dll
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.NoSQL\bin\Debug\netstandard2.0\MoneyTime.Infrastructure.NoSQL.pdb
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.NoSQL\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.NoSQL.csproj.CoreCompileInputs.cache
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.NoSQL\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.NoSQL.AssemblyInfoInputs.cache
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.NoSQL\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.NoSQL.AssemblyInfo.cs
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.NoSQL\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.NoSQL.dll
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.NoSQL\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.NoSQL.pdb

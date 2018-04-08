@@ -1,0 +1,8 @@
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.EventSourcing\bin\Debug\netstandard2.0\MoneyTime.Infrastructure.EventSourcing.deps.json
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.EventSourcing\bin\Debug\netstandard2.0\MoneyTime.Infrastructure.EventSourcing.dll
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.EventSourcing\bin\Debug\netstandard2.0\MoneyTime.Infrastructure.EventSourcing.pdb
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.EventSourcing\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.EventSourcing.csproj.CoreCompileInputs.cache
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.EventSourcing\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.EventSourcing.AssemblyInfoInputs.cache
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.EventSourcing\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.EventSourcing.AssemblyInfo.cs
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.EventSourcing\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.EventSourcing.dll
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.EventSourcing\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.EventSourcing.pdb

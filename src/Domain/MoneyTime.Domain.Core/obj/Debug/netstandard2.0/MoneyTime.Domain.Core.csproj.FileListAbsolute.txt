@@ -1,0 +1,9 @@
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Domain.Core\bin\Debug\netstandard2.0\MoneyTime.Domain.Core.deps.json
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Domain.Core\bin\Debug\netstandard2.0\MoneyTime.Domain.Core.dll
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Domain.Core\bin\Debug\netstandard2.0\MoneyTime.Domain.Core.pdb
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Domain.Core\obj\Debug\netstandard2.0\MoneyTime.Domain.Core.csprojResolveAssemblyReference.cache
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Domain.Core\obj\Debug\netstandard2.0\MoneyTime.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Domain.Core\obj\Debug\netstandard2.0\MoneyTime.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Domain.Core\obj\Debug\netstandard2.0\MoneyTime.Domain.Core.AssemblyInfo.cs
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Domain.Core\obj\Debug\netstandard2.0\MoneyTime.Domain.Core.dll
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Domain.Core\obj\Debug\netstandard2.0\MoneyTime.Domain.Core.pdb

@@ -1,0 +1,8 @@
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Application.Services\bin\Debug\netstandard2.0\MoneyTime.Application.Services.deps.json
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Application.Services\bin\Debug\netstandard2.0\MoneyTime.Application.Services.dll
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Application.Services\bin\Debug\netstandard2.0\MoneyTime.Application.Services.pdb
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Application.Services\obj\Debug\netstandard2.0\MoneyTime.Application.Services.csproj.CoreCompileInputs.cache
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Application.Services\obj\Debug\netstandard2.0\MoneyTime.Application.Services.AssemblyInfoInputs.cache
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Application.Services\obj\Debug\netstandard2.0\MoneyTime.Application.Services.AssemblyInfo.cs
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Application.Services\obj\Debug\netstandard2.0\MoneyTime.Application.Services.dll
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Application.Services\obj\Debug\netstandard2.0\MoneyTime.Application.Services.pdb

@@ -8,4 +8,12 @@
     <Compile Include="Library.fs" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="4.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MoneyTime.Domain.Core\MoneyTime.Domain.Core.csproj" />
+  </ItemGroup>
+
 </Project>

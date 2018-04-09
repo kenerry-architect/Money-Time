@@ -16,3 +16,11 @@ C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IoCManager\MoneyTime.In
 C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IoCManager\MoneyTime.Infrastructure.DependencyResolver\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.DependencyResolver.AssemblyInfo.cs
 C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IoCManager\MoneyTime.Infrastructure.DependencyResolver\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.DependencyResolver.dll
 C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IoCManager\MoneyTime.Infrastructure.DependencyResolver\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.DependencyResolver.pdb
+D:\Workspace\GIT\Money-Time\src\Infrastructure\IoCManager\MoneyTime.Infrastructure.DependencyResolver\bin\Debug\netstandard2.0\MoneyTime.Infrastructure.DependencyResolver.deps.json
+D:\Workspace\GIT\Money-Time\src\Infrastructure\IoCManager\MoneyTime.Infrastructure.DependencyResolver\bin\Debug\netstandard2.0\MoneyTime.Infrastructure.DependencyResolver.dll
+D:\Workspace\GIT\Money-Time\src\Infrastructure\IoCManager\MoneyTime.Infrastructure.DependencyResolver\bin\Debug\netstandard2.0\MoneyTime.Infrastructure.DependencyResolver.pdb
+D:\Workspace\GIT\Money-Time\src\Infrastructure\IoCManager\MoneyTime.Infrastructure.DependencyResolver\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.DependencyResolver.csproj.CoreCompileInputs.cache
+D:\Workspace\GIT\Money-Time\src\Infrastructure\IoCManager\MoneyTime.Infrastructure.DependencyResolver\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.DependencyResolver.AssemblyInfoInputs.cache
+D:\Workspace\GIT\Money-Time\src\Infrastructure\IoCManager\MoneyTime.Infrastructure.DependencyResolver\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.DependencyResolver.AssemblyInfo.cs
+D:\Workspace\GIT\Money-Time\src\Infrastructure\IoCManager\MoneyTime.Infrastructure.DependencyResolver\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.DependencyResolver.dll
+D:\Workspace\GIT\Money-Time\src\Infrastructure\IoCManager\MoneyTime.Infrastructure.DependencyResolver\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.DependencyResolver.pdb

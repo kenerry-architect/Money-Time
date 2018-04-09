@@ -1,47 +1,43 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27130.2010
+VisualStudioVersion = 15.0.27130.2027
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyTime.Application.WebApi.Scheduling", "Application\MoneyTime.Application.WebApi.Scheduling\MoneyTime.Application.WebApi.Scheduling.csproj", "{EE2D97B5-B418-4901-81D4-4E8BCCE6A554}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyTime.Application.WebApi.Scheduling", "Application\MoneyTime.Application.WebApi.Scheduling\MoneyTime.Application.WebApi.Scheduling.csproj", "{EE2D97B5-B418-4901-81D4-4E8BCCE6A554}"
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{04E1C98E-5553-404C-83B6-9910ADF22F2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyTime.Application.WebApi", "Application\MoneyTime.Application.WebApi\MoneyTime.Application.WebApi.csproj", "{20012591-356D-4AFD-B8B3-91718E6F7E49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyTime.Application.WebApi", "Application\MoneyTime.Application.WebApi\MoneyTime.Application.WebApi.csproj", "{20012591-356D-4AFD-B8B3-91718E6F7E49}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Application", "Application", "{0DF2A4A3-EB8B-46B9-BC85-6C43DB718D42}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{17F942A4-411B-4CBF-B059-5B285D123EE3}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{E8863A55-1FDA-46EC-9959-FB05BC7954F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyTime.Domain.Scheduling", "Domain\MoneyTime.Domain.Scheduling\MoneyTime.Domain.Scheduling.csproj", "{CF4AACA0-344B-4FAB-BB4F-827A0DEEDDCA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyTime.Domain.Scheduling", "Domain\MoneyTime.Domain.Scheduling\MoneyTime.Domain.Scheduling.csproj", "{CF4AACA0-344B-4FAB-BB4F-827A0DEEDDCA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyTime.Domain.Core", "Domain\MoneyTime.Domain.Core\MoneyTime.Domain.Core.csproj", "{3FC559A0-7BF7-458C-B515-A2C7EF741A30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyTime.Domain.Core", "Domain\MoneyTime.Domain.Core\MoneyTime.Domain.Core.csproj", "{3FC559A0-7BF7-458C-B515-A2C7EF741A30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyTime.Domain", "Domain\MoneyTime.Domain\MoneyTime.Domain.csproj", "{97E2EDFD-C42E-4CA0-BC56-470DEDB11DED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyTime.Domain", "Domain\MoneyTime.Domain\MoneyTime.Domain.csproj", "{97E2EDFD-C42E-4CA0-BC56-470DEDB11DED}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyTime.Infrastructure.IntegrityKeeperValidator", "Infrastructure\IntegrityKeeper\MoneyTime.Infrastructure.IntegrityKeeperValidator\MoneyTime.Infrastructure.IntegrityKeeperValidator.csproj", "{DE2509AE-A4B6-4647-8D7B-713C10561BDD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyTime.Infrastructure.IntegrityKeeperValidator", "Infrastructure\IntegrityKeeper\MoneyTime.Infrastructure.IntegrityKeeperValidator\MoneyTime.Infrastructure.IntegrityKeeperValidator.csproj", "{DE2509AE-A4B6-4647-8D7B-713C10561BDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyTime.Infrastructure.RabbitMQ", "Infrastructure\RabbitMQ\MoneyTime.Infrastructure.RabbitMQ\MoneyTime.Infrastructure.RabbitMQ.csproj", "{347ACE8C-00BE-4FF0-BF47-2A3C02FC5709}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyTime.Infrastructure.RabbitMQ", "Infrastructure\RabbitMQ\MoneyTime.Infrastructure.RabbitMQ\MoneyTime.Infrastructure.RabbitMQ.csproj", "{347ACE8C-00BE-4FF0-BF47-2A3C02FC5709}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyTime.Infrastructure.SQL", "Infrastructure\Repositories\MoneyTime.Infrastructure.SQL\MoneyTime.Infrastructure.SQL.csproj", "{1EC3D515-3089-4DD4-BAA7-DAA4B324DC55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyTime.Infrastructure.SQL", "Infrastructure\Repositories\MoneyTime.Infrastructure.SQL\MoneyTime.Infrastructure.SQL.csproj", "{1EC3D515-3089-4DD4-BAA7-DAA4B324DC55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyTime.Infrastructure.Caching", "Infrastructure\Redis\MoneyTime.Infrastructure.Caching\MoneyTime.Infrastructure.Caching.csproj", "{9971F5A4-6CAE-487E-B29E-AA99D36735D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyTime.Infrastructure.Caching", "Infrastructure\Redis\MoneyTime.Infrastructure.Caching\MoneyTime.Infrastructure.Caching.csproj", "{9971F5A4-6CAE-487E-B29E-AA99D36735D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyTime.Infrastructure.NoSQL", "Infrastructure\Repositories\MoneyTime.Infrastructure.NoSQL\MoneyTime.Infrastructure.NoSQL.csproj", "{975C54DC-9824-445C-BC97-ED821BF873CA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyTime.Infrastructure.NoSQL", "Infrastructure\Repositories\MoneyTime.Infrastructure.NoSQL\MoneyTime.Infrastructure.NoSQL.csproj", "{975C54DC-9824-445C-BC97-ED821BF873CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyTime.Application.Services", "Application\MoneyTime.Application.Services\MoneyTime.Application.Services.csproj", "{90130AC6-9196-45CA-8752-1FEE0200A611}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyTime.Application.Services", "Application\MoneyTime.Application.Services\MoneyTime.Application.Services.csproj", "{90130AC6-9196-45CA-8752-1FEE0200A611}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyTime.Infrastructure.Localization", "Infrastructure\Localization\MoneyTime.Infrastructure.Localization\MoneyTime.Infrastructure.Localization.csproj", "{CC2783FD-3D18-407E-9522-D9BB1CCB84C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyTime.Infrastructure.Localization", "Infrastructure\Localization\MoneyTime.Infrastructure.Localization\MoneyTime.Infrastructure.Localization.csproj", "{CC2783FD-3D18-407E-9522-D9BB1CCB84C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyTime.Infrastructure.DependencyResolver", "Infrastructure\IoCManager\MoneyTime.Infrastructure.DependencyResolver\MoneyTime.Infrastructure.DependencyResolver.csproj", "{46BA5D30-FF5E-417E-9E83-8397ADA6BBF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyTime.Infrastructure.DependencyResolver", "Infrastructure\IoCManager\MoneyTime.Infrastructure.DependencyResolver\MoneyTime.Infrastructure.DependencyResolver.csproj", "{46BA5D30-FF5E-417E-9E83-8397ADA6BBF8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyTime.Infrastructure.EventSourcing", "Infrastructure\EventSourcing\MoneyTime.Infrastructure.EventSourcing\MoneyTime.Infrastructure.EventSourcing.csproj", "{F0490942-565C-4D30-B8F5-9026817DCF2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyTime.Infrastructure.EventSourcing", "Infrastructure\EventSourcing\MoneyTime.Infrastructure.EventSourcing\MoneyTime.Infrastructure.EventSourcing.csproj", "{F0490942-565C-4D30-B8F5-9026817DCF2D}"
 EndProject
-Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "MoneyTime.Infrastructure.SQLDatabase", "MoneyTime.Infrastructure.SQLDatabase\MoneyTime.Infrastructure.SQLDatabase.sqlproj", "{303DD876-95E7-4B64-9340-19C33BFD5E98}"
-EndProject
-Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "MoneyTime.Domain.Models", "Domain\MoneyTime.Domain.Models\MoneyTime.Domain.Models.fsproj", "{05ECA1FE-D2AA-44D4-B03F-3B040DE4DDFF}"
+Project("{6EC3EE1D-3C4E-46DD-8F32-0CC8E7565705}") = "MoneyTime.Domain.Models", "Domain\MoneyTime.Domain.Models\MoneyTime.Domain.Models.fsproj", "{05ECA1FE-D2AA-44D4-B03F-3B040DE4DDFF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Localization", "Localization", "{D3B5E93F-197D-4F64-A16A-74C285CE2A69}"
 EndProject
@@ -56,6 +52,8 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IntegrityKeeper", "IntegrityKeeper", "{704C9550-5E61-437C-AF61-7222B0C09108}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repositories", "Repositories", "{0BF71759-3CC7-4522-9E58-212824B8995B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infrastructure", "Infrastructure", "{C7D4D05E-B348-4FF8-9A40-6465CE7D7AEB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -123,12 +121,6 @@ Global
 		{F0490942-565C-4D30-B8F5-9026817DCF2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0490942-565C-4D30-B8F5-9026817DCF2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0490942-565C-4D30-B8F5-9026817DCF2D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{303DD876-95E7-4B64-9340-19C33BFD5E98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{303DD876-95E7-4B64-9340-19C33BFD5E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{303DD876-95E7-4B64-9340-19C33BFD5E98}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{303DD876-95E7-4B64-9340-19C33BFD5E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{303DD876-95E7-4B64-9340-19C33BFD5E98}.Release|Any CPU.Build.0 = Release|Any CPU
-		{303DD876-95E7-4B64-9340-19C33BFD5E98}.Release|Any CPU.Deploy.0 = Release|Any CPU
 		{05ECA1FE-D2AA-44D4-B03F-3B040DE4DDFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{05ECA1FE-D2AA-44D4-B03F-3B040DE4DDFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05ECA1FE-D2AA-44D4-B03F-3B040DE4DDFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -152,15 +144,14 @@ Global
 		{CC2783FD-3D18-407E-9522-D9BB1CCB84C1} = {D3B5E93F-197D-4F64-A16A-74C285CE2A69}
 		{46BA5D30-FF5E-417E-9E83-8397ADA6BBF8} = {7D4B465A-57C2-47F4-A18D-146187B0802E}
 		{F0490942-565C-4D30-B8F5-9026817DCF2D} = {9C415506-55F5-4975-B275-DF5D2E33E274}
-		{303DD876-95E7-4B64-9340-19C33BFD5E98} = {17F942A4-411B-4CBF-B059-5B285D123EE3}
 		{05ECA1FE-D2AA-44D4-B03F-3B040DE4DDFF} = {E8863A55-1FDA-46EC-9959-FB05BC7954F2}
-		{D3B5E93F-197D-4F64-A16A-74C285CE2A69} = {17F942A4-411B-4CBF-B059-5B285D123EE3}
-		{76F31124-D866-4E13-9D18-8EE5ACD3AAD4} = {17F942A4-411B-4CBF-B059-5B285D123EE3}
-		{9C415506-55F5-4975-B275-DF5D2E33E274} = {17F942A4-411B-4CBF-B059-5B285D123EE3}
-		{74FE5C01-BC96-4E80-80F9-C0E1A6270161} = {17F942A4-411B-4CBF-B059-5B285D123EE3}
-		{7D4B465A-57C2-47F4-A18D-146187B0802E} = {17F942A4-411B-4CBF-B059-5B285D123EE3}
-		{704C9550-5E61-437C-AF61-7222B0C09108} = {17F942A4-411B-4CBF-B059-5B285D123EE3}
-		{0BF71759-3CC7-4522-9E58-212824B8995B} = {17F942A4-411B-4CBF-B059-5B285D123EE3}
+		{D3B5E93F-197D-4F64-A16A-74C285CE2A69} = {C7D4D05E-B348-4FF8-9A40-6465CE7D7AEB}
+		{76F31124-D866-4E13-9D18-8EE5ACD3AAD4} = {C7D4D05E-B348-4FF8-9A40-6465CE7D7AEB}
+		{9C415506-55F5-4975-B275-DF5D2E33E274} = {C7D4D05E-B348-4FF8-9A40-6465CE7D7AEB}
+		{74FE5C01-BC96-4E80-80F9-C0E1A6270161} = {C7D4D05E-B348-4FF8-9A40-6465CE7D7AEB}
+		{7D4B465A-57C2-47F4-A18D-146187B0802E} = {C7D4D05E-B348-4FF8-9A40-6465CE7D7AEB}
+		{704C9550-5E61-437C-AF61-7222B0C09108} = {C7D4D05E-B348-4FF8-9A40-6465CE7D7AEB}
+		{0BF71759-3CC7-4522-9E58-212824B8995B} = {C7D4D05E-B348-4FF8-9A40-6465CE7D7AEB}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {558C9C49-1226-4EB9-B179-A7F85C387CAB}

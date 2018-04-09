@@ -14,3 +14,11 @@ C:\Users\kener\source\repos\MoneyTime\src\Application\MoneyTime.Application.Serv
 C:\Users\kener\source\repos\MoneyTime\src\Application\MoneyTime.Application.Services\obj\Debug\netstandard2.0\MoneyTime.Application.Services.AssemblyInfo.cs
 C:\Users\kener\source\repos\MoneyTime\src\Application\MoneyTime.Application.Services\obj\Debug\netstandard2.0\MoneyTime.Application.Services.dll
 C:\Users\kener\source\repos\MoneyTime\src\Application\MoneyTime.Application.Services\obj\Debug\netstandard2.0\MoneyTime.Application.Services.pdb
+D:\Workspace\GIT\Money-Time\src\Application\MoneyTime.Application.Services\bin\Debug\netstandard2.0\MoneyTime.Application.Services.deps.json
+D:\Workspace\GIT\Money-Time\src\Application\MoneyTime.Application.Services\bin\Debug\netstandard2.0\MoneyTime.Application.Services.dll
+D:\Workspace\GIT\Money-Time\src\Application\MoneyTime.Application.Services\bin\Debug\netstandard2.0\MoneyTime.Application.Services.pdb
+D:\Workspace\GIT\Money-Time\src\Application\MoneyTime.Application.Services\obj\Debug\netstandard2.0\MoneyTime.Application.Services.csproj.CoreCompileInputs.cache
+D:\Workspace\GIT\Money-Time\src\Application\MoneyTime.Application.Services\obj\Debug\netstandard2.0\MoneyTime.Application.Services.AssemblyInfoInputs.cache
+D:\Workspace\GIT\Money-Time\src\Application\MoneyTime.Application.Services\obj\Debug\netstandard2.0\MoneyTime.Application.Services.AssemblyInfo.cs
+D:\Workspace\GIT\Money-Time\src\Application\MoneyTime.Application.Services\obj\Debug\netstandard2.0\MoneyTime.Application.Services.dll
+D:\Workspace\GIT\Money-Time\src\Application\MoneyTime.Application.Services\obj\Debug\netstandard2.0\MoneyTime.Application.Services.pdb

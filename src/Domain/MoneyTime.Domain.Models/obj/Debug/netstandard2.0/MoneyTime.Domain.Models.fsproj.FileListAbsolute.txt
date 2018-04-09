@@ -10,3 +10,8 @@ C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain.Models\bin\Deb
 C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain.Models\obj\Debug\netstandard2.0\MoneyTime.Domain.Models.fsprojResolveAssemblyReference.cache
 C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain.Models\obj\Debug\netstandard2.0\MoneyTime.Domain.Models.dll
 C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain.Models\obj\Debug\netstandard2.0\MoneyTime.Domain.Models.pdb
+D:\Workspace\GIT\Money-Time\src\Domain\MoneyTime.Domain.Models\bin\Debug\netstandard2.0\MoneyTime.Domain.Models.deps.json
+D:\Workspace\GIT\Money-Time\src\Domain\MoneyTime.Domain.Models\bin\Debug\netstandard2.0\MoneyTime.Domain.Models.dll
+D:\Workspace\GIT\Money-Time\src\Domain\MoneyTime.Domain.Models\bin\Debug\netstandard2.0\MoneyTime.Domain.Models.pdb
+D:\Workspace\GIT\Money-Time\src\Domain\MoneyTime.Domain.Models\obj\Debug\netstandard2.0\MoneyTime.Domain.Models.dll
+D:\Workspace\GIT\Money-Time\src\Domain\MoneyTime.Domain.Models\obj\Debug\netstandard2.0\MoneyTime.Domain.Models.pdb

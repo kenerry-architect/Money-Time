@@ -32,7 +32,7 @@ namespace MoneyTime.Application.WebApi.Scheduling
                 {
                     options.Authority = settings.IdentityUrl;
                     options.RequireHttpsMetadata = false;
-                    options.ClientId = settings.IdentityAudience;
+                    options.ClientId = settings.IdentityClientId;
                     options.ClientSecret = settings.IdentityClientSecret;
                     options.ResponseType = settings.IdentityResponseType;
                 });

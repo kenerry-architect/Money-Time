@@ -1,0 +1,22 @@
+version: '3'
+
+services:
+  moneytime.application.webapi.scheduling:
+    image: moneytime.application.webapi.scheduling
+    build:
+      context: .
+      dockerfile: Application\MoneyTime.Application.WebApi.Scheduling\Dockerfile
+
+  moneytime.application.webapi:
+    image: moneytime.application.webapi
+    build:
+      context: .
+      dockerfile: Application\MoneyTime.Application.WebApi\Dockerfile
+
+
+  moneytime.application.webapi.mobile:
+    image: moneytime.application.webapi.mobile
+    build:
+      context: .
+      dockerfile: MoneyTime.Application.WebApi.Mobile\Dockerfile
+

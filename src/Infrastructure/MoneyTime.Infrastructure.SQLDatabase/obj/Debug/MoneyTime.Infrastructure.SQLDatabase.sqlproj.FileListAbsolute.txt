@@ -1,0 +1,5 @@
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.SQLDatabase\bin\Debug\MoneyTime.Infrastructure.SQLDatabase.dacpac
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.SQLDatabase\bin\Debug\MoneyTime.Infrastructure.SQLDatabase.dll
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.SQLDatabase\bin\Debug\MoneyTime.Infrastructure.SQLDatabase.pdb
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.SQLDatabase\obj\Debug\MoneyTime.Infrastructure.SQLDatabase.dll
+C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.SQLDatabase\obj\Debug\MoneyTime.Infrastructure.SQLDatabase.pdb

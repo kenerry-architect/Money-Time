@@ -16,3 +16,11 @@ C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain.Scheduling\obj
 C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain.Scheduling\obj\Debug\netstandard2.0\MoneyTime.Domain.Scheduling.AssemblyInfo.cs
 C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain.Scheduling\obj\Debug\netstandard2.0\MoneyTime.Domain.Scheduling.dll
 C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain.Scheduling\obj\Debug\netstandard2.0\MoneyTime.Domain.Scheduling.pdb
+D:\Workspace\GIT\Money-Time\src\Domain\MoneyTime.Domain.Scheduling\bin\Debug\netstandard2.0\MoneyTime.Domain.Scheduling.deps.json
+D:\Workspace\GIT\Money-Time\src\Domain\MoneyTime.Domain.Scheduling\bin\Debug\netstandard2.0\MoneyTime.Domain.Scheduling.dll
+D:\Workspace\GIT\Money-Time\src\Domain\MoneyTime.Domain.Scheduling\bin\Debug\netstandard2.0\MoneyTime.Domain.Scheduling.pdb
+D:\Workspace\GIT\Money-Time\src\Domain\MoneyTime.Domain.Scheduling\obj\Debug\netstandard2.0\MoneyTime.Domain.Scheduling.csproj.CoreCompileInputs.cache
+D:\Workspace\GIT\Money-Time\src\Domain\MoneyTime.Domain.Scheduling\obj\Debug\netstandard2.0\MoneyTime.Domain.Scheduling.AssemblyInfoInputs.cache
+D:\Workspace\GIT\Money-Time\src\Domain\MoneyTime.Domain.Scheduling\obj\Debug\netstandard2.0\MoneyTime.Domain.Scheduling.AssemblyInfo.cs
+D:\Workspace\GIT\Money-Time\src\Domain\MoneyTime.Domain.Scheduling\obj\Debug\netstandard2.0\MoneyTime.Domain.Scheduling.dll
+D:\Workspace\GIT\Money-Time\src\Domain\MoneyTime.Domain.Scheduling\obj\Debug\netstandard2.0\MoneyTime.Domain.Scheduling.pdb

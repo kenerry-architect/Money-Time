@@ -20,3 +20,13 @@ C:\Users\kener\source\repos\MoneyTime\src\Application\MoneyTime.Application.WebA
 C:\Users\kener\source\repos\MoneyTime\src\Application\MoneyTime.Application.WebApi\obj\Debug\netcoreapp2.0\MoneyTime.Application.WebApi.AssemblyInfo.cs
 C:\Users\kener\source\repos\MoneyTime\src\Application\MoneyTime.Application.WebApi\obj\Debug\netcoreapp2.0\MoneyTime.Application.WebApi.dll
 C:\Users\kener\source\repos\MoneyTime\src\Application\MoneyTime.Application.WebApi\obj\Debug\netcoreapp2.0\MoneyTime.Application.WebApi.pdb
+D:\Workspace\GIT\Money-Time\src\Application\MoneyTime.Application.WebApi\bin\Debug\netcoreapp2.0\MoneyTime.Application.WebApi.deps.json
+D:\Workspace\GIT\Money-Time\src\Application\MoneyTime.Application.WebApi\bin\Debug\netcoreapp2.0\MoneyTime.Application.WebApi.runtimeconfig.json
+D:\Workspace\GIT\Money-Time\src\Application\MoneyTime.Application.WebApi\bin\Debug\netcoreapp2.0\MoneyTime.Application.WebApi.runtimeconfig.dev.json
+D:\Workspace\GIT\Money-Time\src\Application\MoneyTime.Application.WebApi\bin\Debug\netcoreapp2.0\MoneyTime.Application.WebApi.dll
+D:\Workspace\GIT\Money-Time\src\Application\MoneyTime.Application.WebApi\bin\Debug\netcoreapp2.0\MoneyTime.Application.WebApi.pdb
+D:\Workspace\GIT\Money-Time\src\Application\MoneyTime.Application.WebApi\obj\Debug\netcoreapp2.0\MoneyTime.Application.WebApi.csproj.CoreCompileInputs.cache
+D:\Workspace\GIT\Money-Time\src\Application\MoneyTime.Application.WebApi\obj\Debug\netcoreapp2.0\MoneyTime.Application.WebApi.AssemblyInfoInputs.cache
+D:\Workspace\GIT\Money-Time\src\Application\MoneyTime.Application.WebApi\obj\Debug\netcoreapp2.0\MoneyTime.Application.WebApi.AssemblyInfo.cs
+D:\Workspace\GIT\Money-Time\src\Application\MoneyTime.Application.WebApi\obj\Debug\netcoreapp2.0\MoneyTime.Application.WebApi.dll
+D:\Workspace\GIT\Money-Time\src\Application\MoneyTime.Application.WebApi\obj\Debug\netcoreapp2.0\MoneyTime.Application.WebApi.pdb

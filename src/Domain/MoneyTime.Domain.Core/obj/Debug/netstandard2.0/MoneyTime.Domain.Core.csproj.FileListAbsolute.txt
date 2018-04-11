@@ -16,3 +16,14 @@ C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain.Core\obj\Debug
 C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain.Core\obj\Debug\netstandard2.0\MoneyTime.Domain.Core.AssemblyInfo.cs
 C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain.Core\obj\Debug\netstandard2.0\MoneyTime.Domain.Core.dll
 C:\Users\kener\source\repos\MoneyTime\src\Domain\MoneyTime.Domain.Core\obj\Debug\netstandard2.0\MoneyTime.Domain.Core.pdb
+D:\Workspace\GIT\Money-Time\src\Domain\MoneyTime.Domain.Core\bin\Debug\netstandard2.0\MoneyTime.Domain.Core.deps.json
+D:\Workspace\GIT\Money-Time\src\Domain\MoneyTime.Domain.Core\bin\Debug\netstandard2.0\MoneyTime.Domain.Core.dll
+D:\Workspace\GIT\Money-Time\src\Domain\MoneyTime.Domain.Core\bin\Debug\netstandard2.0\MoneyTime.Domain.Core.pdb
+D:\Workspace\GIT\Money-Time\src\Domain\MoneyTime.Domain.Core\obj\Debug\netstandard2.0\MoneyTime.Domain.Core.csprojResolveAssemblyReference.cache
+D:\Workspace\GIT\Money-Time\src\Domain\MoneyTime.Domain.Core\obj\Debug\netstandard2.0\MoneyTime.Domain.Core.csproj.CoreCompileInputs.cache
+D:\Workspace\GIT\Money-Time\src\Domain\MoneyTime.Domain.Core\obj\Debug\netstandard2.0\MoneyTime.Domain.Core.AssemblyInfoInputs.cache
+D:\Workspace\GIT\Money-Time\src\Domain\MoneyTime.Domain.Core\obj\Debug\netstandard2.0\MoneyTime.Domain.Core.AssemblyInfo.cs
+D:\Workspace\GIT\Money-Time\src\Domain\MoneyTime.Domain.Core\obj\Debug\netstandard2.0\MoneyTime.Domain.Core.dll
+D:\Workspace\GIT\Money-Time\src\Domain\MoneyTime.Domain.Core\obj\Debug\netstandard2.0\MoneyTime.Domain.Core.pdb
+D:\Workspace\GIT\Money-Time\src\Domain\MoneyTime.Domain.Core\bin\Debug\netstandard2.0\MoneyTime.Domain.Models.dll
+D:\Workspace\GIT\Money-Time\src\Domain\MoneyTime.Domain.Core\bin\Debug\netstandard2.0\MoneyTime.Domain.Models.pdb

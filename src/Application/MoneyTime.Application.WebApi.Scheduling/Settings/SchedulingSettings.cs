@@ -1,4 +1,4 @@
-﻿namespace MoneyTime.Application.WebApi.Settings
+﻿namespace MoneyTime.Application.WebApi.Scheduling.Settings
 {
     public class SchedulingSettings
     {

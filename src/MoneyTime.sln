@@ -14,31 +14,6 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Domain", "Domain", "{E8863A55-1FDA-46EC-9959-FB05BC7954F2}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyTime.Domain.Scheduling", "Domain\MoneyTime.Domain.Scheduling\MoneyTime.Domain.Scheduling.csproj", "{CF4AACA0-344B-4FAB-BB4F-827A0DEEDDCA}"
-<<<<<<< HEAD
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyTime.Domain.Core", "Domain\MoneyTime.Domain.Core\MoneyTime.Domain.Core.csproj", "{3FC559A0-7BF7-458C-B515-A2C7EF741A30}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyTime.Domain", "Domain\MoneyTime.Domain\MoneyTime.Domain.csproj", "{97E2EDFD-C42E-4CA0-BC56-470DEDB11DED}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyTime.Infrastructure.IntegrityKeeperValidator", "Infrastructure\IntegrityKeeper\MoneyTime.Infrastructure.IntegrityKeeperValidator\MoneyTime.Infrastructure.IntegrityKeeperValidator.csproj", "{DE2509AE-A4B6-4647-8D7B-713C10561BDD}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyTime.Infrastructure.RabbitMQ", "Infrastructure\RabbitMQ\MoneyTime.Infrastructure.RabbitMQ\MoneyTime.Infrastructure.RabbitMQ.csproj", "{347ACE8C-00BE-4FF0-BF47-2A3C02FC5709}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyTime.Infrastructure.SQL", "Infrastructure\Repositories\MoneyTime.Infrastructure.SQL\MoneyTime.Infrastructure.SQL.csproj", "{1EC3D515-3089-4DD4-BAA7-DAA4B324DC55}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyTime.Infrastructure.Caching", "Infrastructure\Redis\MoneyTime.Infrastructure.Caching\MoneyTime.Infrastructure.Caching.csproj", "{9971F5A4-6CAE-487E-B29E-AA99D36735D3}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyTime.Infrastructure.NoSQL", "Infrastructure\Repositories\MoneyTime.Infrastructure.NoSQL\MoneyTime.Infrastructure.NoSQL.csproj", "{975C54DC-9824-445C-BC97-ED821BF873CA}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyTime.Application.Services", "Application\MoneyTime.Application.Services\MoneyTime.Application.Services.csproj", "{90130AC6-9196-45CA-8752-1FEE0200A611}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyTime.Infrastructure.Localization", "Infrastructure\Localization\MoneyTime.Infrastructure.Localization\MoneyTime.Infrastructure.Localization.csproj", "{CC2783FD-3D18-407E-9522-D9BB1CCB84C1}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyTime.Infrastructure.DependencyResolver", "Infrastructure\IoCManager\MoneyTime.Infrastructure.DependencyResolver\MoneyTime.Infrastructure.DependencyResolver.csproj", "{46BA5D30-FF5E-417E-9E83-8397ADA6BBF8}"
-EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyTime.Infrastructure.EventSourcing", "Infrastructure\EventSourcing\MoneyTime.Infrastructure.EventSourcing\MoneyTime.Infrastructure.EventSourcing.csproj", "{F0490942-565C-4D30-B8F5-9026817DCF2D}"
-EndProject
-=======
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyTime.Domain.Core", "Domain\MoneyTime.Domain.Core\MoneyTime.Domain.Core.csproj", "{3FC559A0-7BF7-458C-B515-A2C7EF741A30}"
 EndProject

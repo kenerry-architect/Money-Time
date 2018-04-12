@@ -3,7 +3,8 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using MoneyTime.Application.WebApi.Settings;
+using MoneyTime.Application.WebApi.Scheduling.Settings;
+using System.IdentityModel.Tokens.Jwt;
 
 namespace MoneyTime.Application.WebApi.Scheduling
 {
@@ -20,33 +21,44 @@ namespace MoneyTime.Application.WebApi.Scheduling
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddMvc();
+
+            services.AddCors(options =>
+            {
+                options.AddPolicy("AllowAll",
+                    builder => builder
+                        .AllowAnyMethod()
+                        .AllowAnyOrigin()
+                        .AllowAnyHeader());
+            });
+
             services.Configure<SchedulingSettings>(Configuration);
             var settings = Configuration.Get<SchedulingSettings>();
             services.AddSingleton(settings);
-            services.AddAuthentication(options =>
-                {
-                    options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-                    options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
-                })
-                .AddOpenIdConnect(options =>
-                {
-                    options.Authority = settings.IdentityUrl;
-                    options.RequireHttpsMetadata = false;
-                    options.ClientId = settings.IdentityClientId;
-                    options.ClientSecret = settings.IdentityClientSecret;
-                    options.ResponseType = settings.IdentityResponseType;
-                });
+            JwtSecurityTokenHandler.DefaultInboundClaimTypeMap.Clear();
 
-            services.AddMvc();
+
+            services.AddAuthentication(options =>
+            {
+                options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
+                options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
+            }).AddJwtBearer(options =>
+            {
+                options.Authority = settings.IdentityUrl;
+                options.Audience = settings.IdentityClientId;
+                options.RequireHttpsMetadata = false;
+            });
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             if (env.IsDevelopment()) app.UseDeveloperExceptionPage();
-
+            app.UseCors("AllowAll");
+            //app.UseStaticFiles();
             app.UseAuthentication();
-            app.UseMvcWithDefaultRoute();
+            //app.UseMvcWithDefaultRoute();
+            app.UseMvc();
         }
     }
 }

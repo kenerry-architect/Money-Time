@@ -14,9 +14,3 @@ services:
       dockerfile: Application\MoneyTime.Application.WebApi\Dockerfile
 
 
-  moneytime.application.webapi.mobile:
-    image: moneytime.application.webapi.mobile
-    build:
-      context: .
-      dockerfile: MoneyTime.Application.WebApi.Mobile\Dockerfile
-

@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETStandard,Version=v2.0/",
-    "signature": "4cc0de2f4857f46b84bb9a2eda7a37a813a3d194"
+    "signature": "c57e911fb2d294cf5678343ac1ab2136cfefbe6d"
   },
   "compilationOptions": {},
   "targets": {
@@ -10,9 +10,10 @@
       "MoneyTime.Infrastructure.IntegrityKeeperValidator/1.0.0": {
         "dependencies": {
           "MediatR": "4.1.0",
+          "MoneyTime.Domain.Core": "1.0.0",
           "MoneyTime.Domain.Models": "1.0.0",
           "MoneyTime.Infrastructure.Localization": "1.0.0",
-          "NETStandard.Library": "2.0.1"
+          "NETStandard.Library": "2.0.0"
         },
         "runtime": {
           "MoneyTime.Infrastructure.IntegrityKeeperValidator.dll": {}
@@ -150,7 +151,7 @@
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
       "Microsoft.NETCore.Targets/1.0.1": {},
-      "NETStandard.Library/2.0.1": {
+      "NETStandard.Library/2.0.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
         }
@@ -761,10 +762,19 @@
           "System.Runtime": "4.1.0"
         }
       },
+      "MoneyTime.Domain.Core/1.0.0": {
+        "dependencies": {
+          "MediatR": "4.1.0"
+        },
+        "runtime": {
+          "MoneyTime.Domain.Core.dll": {}
+        }
+      },
       "MoneyTime.Domain.Models/1.0.0": {
         "dependencies": {
           "FSharp.Core": "4.2.3",
-          "MediatR": "4.1.0"
+          "MediatR": "4.1.0",
+          "MoneyTime.Domain.Core": "1.0.0"
         },
         "runtime": {
           "MoneyTime.Domain.Models.dll": {}
@@ -900,12 +910,12 @@
       "path": "microsoft.netcore.targets/1.0.1",
       "hashPath": "microsoft.netcore.targets.1.0.1.nupkg.sha512"
     },
-    "NETStandard.Library/2.0.1": {
+    "NETStandard.Library/2.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-oA6nwv9MhEKYvLpjZ0ggSpb1g4CQViDVQjLUcDWg598jtvJbpfeP2reqwI1GLW2TbxC/Ml7xL6BBR1HmKPXlTg==",
-      "path": "netstandard.library/2.0.1",
-      "hashPath": "netstandard.library.2.0.1.nupkg.sha512"
+      "sha512": "sha512-7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
+      "path": "netstandard.library/2.0.0",
+      "hashPath": "netstandard.library.2.0.0.nupkg.sha512"
     },
     "Newtonsoft.Json/11.0.2": {
       "type": "package",
@@ -1288,7 +1298,7 @@
     "System.Threading.ThreadPool/4.0.10": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-IMXgB5Vf/5Qw1kpoVgJMOvUO1l32aC+qC3OaIZjWJOjvcxuxNWOK2ZTWWYXfij22NHxT2j1yWX5vlAeQWld9vA==",
+      "sha512": "sha512-Sk2eyTzGxNuoMz8RPoyoLYqOUy4+aGK7zw15D3oDiBGITBNqypJuSajlrKpJ5HsKOKTuTHYXAJzegTClX8fIXA==",
       "path": "system.threading.threadpool/4.0.10",
       "hashPath": "system.threading.threadpool.4.0.10.nupkg.sha512"
     },
@@ -1298,6 +1308,11 @@
       "sha512": "sha512-saGfUV8uqVW6LeURiqxcGhZ24PzuRNaUBtbhVeuUAvky1naH395A/1nY0P2bWvrw/BreRtIB/EzTDkGBpqCwEw==",
       "path": "system.threading.timer/4.0.1",
       "hashPath": "system.threading.timer.4.0.1.nupkg.sha512"
+    },
+    "MoneyTime.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "MoneyTime.Domain.Models/1.0.0": {
       "type": "project",

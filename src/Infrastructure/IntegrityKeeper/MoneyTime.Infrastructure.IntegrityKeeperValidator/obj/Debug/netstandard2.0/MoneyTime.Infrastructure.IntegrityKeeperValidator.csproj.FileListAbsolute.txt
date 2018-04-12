@@ -31,3 +31,14 @@ D:\Workspace\GIT\Money-Time\src\Infrastructure\IntegrityKeeper\MoneyTime.Infrast
 D:\Workspace\GIT\Money-Time\src\Infrastructure\IntegrityKeeper\MoneyTime.Infrastructure.IntegrityKeeperValidator\bin\Debug\netstandard2.0\MoneyTime.Domain.Models.pdb
 D:\Workspace\GIT\Money-Time\src\Infrastructure\IntegrityKeeper\MoneyTime.Infrastructure.IntegrityKeeperValidator\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Hosting.Abstractions.xml
 D:\Workspace\GIT\Money-Time\src\Infrastructure\IntegrityKeeper\MoneyTime.Infrastructure.IntegrityKeeperValidator\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IntegrityKeeper\MoneyTime.Infrastructure.IntegrityKeeperValidator\bin\Debug\netstandard2.0\MoneyTime.Domain.Core.dll
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IntegrityKeeper\MoneyTime.Infrastructure.IntegrityKeeperValidator\bin\Debug\netstandard2.0\MoneyTime.Domain.Models.dll
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IntegrityKeeper\MoneyTime.Infrastructure.IntegrityKeeperValidator\bin\Debug\netstandard2.0\MoneyTime.Infrastructure.Localization.dll
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IntegrityKeeper\MoneyTime.Infrastructure.IntegrityKeeperValidator\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IntegrityKeeper\MoneyTime.Infrastructure.IntegrityKeeperValidator\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IntegrityKeeper\MoneyTime.Infrastructure.IntegrityKeeperValidator\bin\Debug\netstandard2.0\MoneyTime.Domain.Core.pdb
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IntegrityKeeper\MoneyTime.Infrastructure.IntegrityKeeperValidator\bin\Debug\netstandard2.0\MoneyTime.Domain.Models.pdb
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IntegrityKeeper\MoneyTime.Infrastructure.IntegrityKeeperValidator\bin\Debug\netstandard2.0\MoneyTime.Infrastructure.Localization.pdb
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IntegrityKeeper\MoneyTime.Infrastructure.IntegrityKeeperValidator\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IntegrityKeeper\MoneyTime.Infrastructure.IntegrityKeeperValidator\bin\Debug\netstandard2.0\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IntegrityKeeper\MoneyTime.Infrastructure.IntegrityKeeperValidator\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.IntegrityKeeperValidator.csprojResolveAssemblyReference.cache

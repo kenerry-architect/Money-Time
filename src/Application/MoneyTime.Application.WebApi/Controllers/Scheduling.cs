@@ -1,10 +1,8 @@
-﻿using Microsoft.AspNetCore.Mvc;
-using System.Collections.Generic;
-using Microsoft.AspNetCore.Authentication.JwtBearer;
+﻿using System.Collections.Generic;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 
-
-namespace MoneyTime.Application.WebApi.Scheduling.Controllers
+namespace MoneyTime.Application.WebApi.Controllers
 {
     [Route("api/[controller]")]
     public class Scheduling : Controller

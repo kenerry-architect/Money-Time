@@ -10,7 +10,6 @@ C:\Users\kener\source\repos\MoneyTime\MoneyTime.Infrastructure.DependencyResolve
 C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IoCManager\MoneyTime.Infrastructure.DependencyResolver\bin\Debug\netstandard2.0\MoneyTime.Infrastructure.DependencyResolver.deps.json
 C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IoCManager\MoneyTime.Infrastructure.DependencyResolver\bin\Debug\netstandard2.0\MoneyTime.Infrastructure.DependencyResolver.dll
 C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IoCManager\MoneyTime.Infrastructure.DependencyResolver\bin\Debug\netstandard2.0\MoneyTime.Infrastructure.DependencyResolver.pdb
-C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IoCManager\MoneyTime.Infrastructure.DependencyResolver\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.DependencyResolver.csprojResolveAssemblyReference.cache
 C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IoCManager\MoneyTime.Infrastructure.DependencyResolver\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.DependencyResolver.csproj.CoreCompileInputs.cache
 C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IoCManager\MoneyTime.Infrastructure.DependencyResolver\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.DependencyResolver.AssemblyInfoInputs.cache
 C:\Users\kener\source\repos\MoneyTime\src\Infrastructure\IoCManager\MoneyTime.Infrastructure.DependencyResolver\obj\Debug\netstandard2.0\MoneyTime.Infrastructure.DependencyResolver.AssemblyInfo.cs

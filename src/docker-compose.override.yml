@@ -11,11 +11,6 @@ services:
       - ASPNETCORE_ENVIRONMENT=Development
     ports:
       - "80"
-  moneytime.application.webapi.mobile:
-    environment:
-      - ASPNETCORE_ENVIRONMENT=Development
-    ports:
-      - "80"
 networks:
   default:
     external:

@@ -206,7 +206,7 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "NETStandard.Library/2.0.1": {
+      "NETStandard.Library/2.0.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
@@ -1379,12 +1379,15 @@
         "runtime.json"
       ]
     },
-    "NETStandard.Library/2.0.1": {
-      "sha512": "oA6nwv9MhEKYvLpjZ0ggSpb1g4CQViDVQjLUcDWg598jtvJbpfeP2reqwI1GLW2TbxC/Ml7xL6BBR1HmKPXlTg==",
+    "NETStandard.Library/2.0.0": {
+      "sha512": "7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
       "type": "package",
-      "path": "netstandard.library/2.0.1",
+      "path": "netstandard.library/2.0.0",
       "files": [
         "LICENSE.TXT",
+        "NETStandard.Library.2.0.0.license.html",
+        "NETStandard.Library.2.0.0.nupkg.sha512",
+        "NETStandard.Library.nuspec",
         "THIRD-PARTY-NOTICES.TXT",
         "build/NETStandard.Library.targets",
         "build/netstandard2.0/NETStandard.Library.targets",
@@ -1502,9 +1505,7 @@
         "build/netstandard2.0/ref/mscorlib.dll",
         "build/netstandard2.0/ref/netstandard.dll",
         "build/netstandard2.0/ref/netstandard.xml",
-        "lib/netstandard1.0/_._",
-        "netstandard.library.2.0.1.nupkg.sha512",
-        "netstandard.library.nuspec"
+        "lib/netstandard1.0/_._"
       ]
     },
     "Newtonsoft.Json/11.0.2": {
@@ -4213,7 +4214,7 @@
       ]
     },
     "System.Threading.ThreadPool/4.0.10": {
-      "sha512": "IMXgB5Vf/5Qw1kpoVgJMOvUO1l32aC+qC3OaIZjWJOjvcxuxNWOK2ZTWWYXfij22NHxT2j1yWX5vlAeQWld9vA==",
+      "sha512": "Sk2eyTzGxNuoMz8RPoyoLYqOUy4+aGK7zw15D3oDiBGITBNqypJuSajlrKpJ5HsKOKTuTHYXAJzegTClX8fIXA==",
       "type": "package",
       "path": "system.threading.threadpool/4.0.10",
       "files": [
@@ -4325,11 +4326,11 @@
       "MoneyTime.Domain.Core >= 1.0.0",
       "MoneyTime.Domain.Models >= 1.0.0",
       "MoneyTime.Infrastructure.Localization >= 1.0.0",
-      "NETStandard.Library >= 2.0.1"
+      "NETStandard.Library >= 2.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kserain\\.nuget\\packages\\": {},
+    "C:\\Users\\kener\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -4338,17 +4339,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "D:\\Workspace\\GIT\\Money-Time\\src\\Infrastructure\\IntegrityKeeper\\MoneyTime.Infrastructure.IntegrityKeeperValidator\\MoneyTime.Infrastructure.IntegrityKeeperValidator.csproj",
+      "projectUniqueName": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Infrastructure\\IntegrityKeeper\\MoneyTime.Infrastructure.IntegrityKeeperValidator\\MoneyTime.Infrastructure.IntegrityKeeperValidator.csproj",
       "projectName": "MoneyTime.Infrastructure.IntegrityKeeperValidator",
-      "projectPath": "D:\\Workspace\\GIT\\Money-Time\\src\\Infrastructure\\IntegrityKeeper\\MoneyTime.Infrastructure.IntegrityKeeperValidator\\MoneyTime.Infrastructure.IntegrityKeeperValidator.csproj",
-      "packagesPath": "C:\\Users\\kserain\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspace\\GIT\\Money-Time\\src\\Infrastructure\\IntegrityKeeper\\MoneyTime.Infrastructure.IntegrityKeeperValidator\\obj\\",
+      "projectPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Infrastructure\\IntegrityKeeper\\MoneyTime.Infrastructure.IntegrityKeeperValidator\\MoneyTime.Infrastructure.IntegrityKeeperValidator.csproj",
+      "packagesPath": "C:\\Users\\kener\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Infrastructure\\IntegrityKeeper\\MoneyTime.Infrastructure.IntegrityKeeperValidator\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\kserain\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kener\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -4361,14 +4362,14 @@
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "D:\\Workspace\\GIT\\Money-Time\\src\\Infrastructure\\Localization\\MoneyTime.Infrastructure.Localization\\MoneyTime.Infrastructure.Localization.csproj": {
-              "projectPath": "D:\\Workspace\\GIT\\Money-Time\\src\\Infrastructure\\Localization\\MoneyTime.Infrastructure.Localization\\MoneyTime.Infrastructure.Localization.csproj"
+            "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Infrastructure\\Localization\\MoneyTime.Infrastructure.Localization\\MoneyTime.Infrastructure.Localization.csproj": {
+              "projectPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Infrastructure\\Localization\\MoneyTime.Infrastructure.Localization\\MoneyTime.Infrastructure.Localization.csproj"
             },
-            "D:\\Workspace\\GIT\\Money-Time\\src\\Domain\\MoneyTime.Domain.Models\\MoneyTime.Domain.Models.fsproj": {
-              "projectPath": "D:\\Workspace\\GIT\\Money-Time\\src\\Domain\\MoneyTime.Domain.Models\\MoneyTime.Domain.Models.fsproj"
+            "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Domain\\MoneyTime.Domain.Models\\MoneyTime.Domain.Models.fsproj": {
+              "projectPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Domain\\MoneyTime.Domain.Models\\MoneyTime.Domain.Models.fsproj"
             },
-            "D:\\Workspace\\GIT\\Money-Time\\src\\Domain\\MoneyTime.Domain.Core\\MoneyTime.Domain.Core.csproj": {
-              "projectPath": "D:\\Workspace\\GIT\\Money-Time\\src\\Domain\\MoneyTime.Domain.Core\\MoneyTime.Domain.Core.csproj"
+            "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Domain\\MoneyTime.Domain.Core\\MoneyTime.Domain.Core.csproj": {
+              "projectPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Domain\\MoneyTime.Domain.Core\\MoneyTime.Domain.Core.csproj"
             }
           }
         }
@@ -4389,7 +4390,7 @@
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.0.1, )",
+            "version": "[2.0.0, )",
             "autoReferenced": true
           }
         },

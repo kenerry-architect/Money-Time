@@ -5,6 +5,7 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using MoneyTime.Application.WebApi.Scheduling.Settings;
 using System.IdentityModel.Tokens.Jwt;
+using Microsoft.IdentityModel.Tokens;
 
 namespace MoneyTime.Application.WebApi.Scheduling
 {
@@ -44,6 +45,7 @@ namespace MoneyTime.Application.WebApi.Scheduling
                 options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
             }).AddJwtBearer(options =>
             {
+                options.TokenValidationParameters = new TokenValidationParameters(){RequireExpirationTime = false};
                 options.Authority = settings.IdentityUrl;
                 options.Audience = settings.IdentityClientId;
                 options.RequireHttpsMetadata = false;

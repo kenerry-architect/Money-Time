@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     ".NETStandard,Version=v2.0": {
+      "MediatR/4.1.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MediatR.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.dll": {}
+        }
+      },
       "Microsoft.NETCore.Platforms/1.1.0": {
         "type": "package",
         "compile": {
@@ -11,7 +20,7 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "NETStandard.Library/2.0.0": {
+      "NETStandard.Library/2.0.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.NETCore.Platforms": "1.1.0"
@@ -25,10 +34,35 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "MoneyTime.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "MediatR": "4.1.0"
+        },
+        "compile": {
+          "bin/placeholder/MoneyTime.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/MoneyTime.Domain.Core.dll": {}
+        }
       }
     }
   },
   "libraries": {
+    "MediatR/4.1.0": {
+      "sha512": "xpResbmpvPjlZOApIyUgrhGksGYVTuxb3bYP0LolmlpCcXrkujuTTFm6NyCFN8MZkYDgsPpn4QWdxWLBMxoVYA==",
+      "type": "package",
+      "path": "mediatr/4.1.0",
+      "files": [
+        "MediatR.4.1.0.nupkg.sha512",
+        "MediatR.nuspec",
+        "lib/net45/MediatR.dll",
+        "lib/netstandard1.3/MediatR.dll",
+        "lib/netstandard2.0/MediatR.dll"
+      ]
+    },
     "Microsoft.NETCore.Platforms/1.1.0": {
       "sha512": "kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "type": "package",
@@ -42,15 +76,12 @@
         "runtime.json"
       ]
     },
-    "NETStandard.Library/2.0.0": {
-      "sha512": "7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
+    "NETStandard.Library/2.0.1": {
+      "sha512": "oA6nwv9MhEKYvLpjZ0ggSpb1g4CQViDVQjLUcDWg598jtvJbpfeP2reqwI1GLW2TbxC/Ml7xL6BBR1HmKPXlTg==",
       "type": "package",
-      "path": "netstandard.library/2.0.0",
+      "path": "netstandard.library/2.0.1",
       "files": [
         "LICENSE.TXT",
-        "NETStandard.Library.2.0.0.license.html",
-        "NETStandard.Library.2.0.0.nupkg.sha512",
-        "NETStandard.Library.nuspec",
         "THIRD-PARTY-NOTICES.TXT",
         "build/NETStandard.Library.targets",
         "build/netstandard2.0/NETStandard.Library.targets",
@@ -168,17 +199,25 @@
         "build/netstandard2.0/ref/mscorlib.dll",
         "build/netstandard2.0/ref/netstandard.dll",
         "build/netstandard2.0/ref/netstandard.xml",
-        "lib/netstandard1.0/_._"
+        "lib/netstandard1.0/_._",
+        "netstandard.library.2.0.1.nupkg.sha512",
+        "netstandard.library.nuspec"
       ]
+    },
+    "MoneyTime.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../MoneyTime.Domain.Core/MoneyTime.Domain.Core.csproj",
+      "msbuildProject": "../MoneyTime.Domain.Core/MoneyTime.Domain.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
-      "NETStandard.Library >= 2.0.0"
+      "MoneyTime.Domain.Core >= 1.0.0",
+      "NETStandard.Library >= 2.0.1"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kener\\.nuget\\packages\\": {},
+    "C:\\Users\\kserain\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
@@ -187,17 +226,17 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Domain\\MoneyTime.Domain\\MoneyTime.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\kserain\\source\\repos\\MoneyTime\\Money-Time\\src\\Domain\\MoneyTime.Domain\\MoneyTime.Domain.csproj",
       "projectName": "MoneyTime.Domain",
-      "projectPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Domain\\MoneyTime.Domain\\MoneyTime.Domain.csproj",
-      "packagesPath": "C:\\Users\\kener\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kener\\source\\repos\\MoneyTime\\src\\Domain\\MoneyTime.Domain\\obj\\",
+      "projectPath": "C:\\Users\\kserain\\source\\repos\\MoneyTime\\Money-Time\\src\\Domain\\MoneyTime.Domain\\MoneyTime.Domain.csproj",
+      "packagesPath": "C:\\Users\\kserain\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kserain\\source\\repos\\MoneyTime\\Money-Time\\src\\Domain\\MoneyTime.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\kener\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kserain\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -209,7 +248,11 @@
       },
       "frameworks": {
         "netstandard2.0": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\kserain\\source\\repos\\MoneyTime\\Money-Time\\src\\Domain\\MoneyTime.Domain.Core\\MoneyTime.Domain.Core.csproj": {
+              "projectPath": "C:\\Users\\kserain\\source\\repos\\MoneyTime\\Money-Time\\src\\Domain\\MoneyTime.Domain.Core\\MoneyTime.Domain.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -224,7 +267,7 @@
           "NETStandard.Library": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[2.0.0, )",
+            "version": "[2.0.1, )",
             "autoReferenced": true
           }
         },
